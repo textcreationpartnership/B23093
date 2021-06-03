@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foundation of faith, and the substance of the Bible, concerning Jesus Christ the true Messiah. According to prophesies fore-told in the Old Testament, and confirmed in the New, from His birth to His most glorious assention.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23093</idno><idno type="EEBO-CITATION">99885402_201257</idno>
+  <idno type="VID">201257</idno>
+  <idno type="EEBO-PROQUEST">2248535301</idno>
+  
+            <idno type="STC">Wing F1645</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[13]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[94]</idno>
+            <idno type="STC">ESTC R222990</idno>
+            <idno type="PROQUEST">ocm99885402</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885402e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201257)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C15:2[13]; B2:1[140])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foundation of faith, and the substance of the Bible, concerning Jesus Christ the true Messiah. According to prophesies fore-told in the Old Testament, and confirmed in the New, from His birth to His most glorious assention.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Crosse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in double columns, within ornamental border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Messiahship --  Early works to 1800.</term>
+               <term type="uniform_title">Bible --  Prophecies --  Early works to 1800.</term>
+               <term type="uniform_title">Bible --  Parables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="creed">
+            <pb facs="tcp:201257:1"/>
+            <head>The Foundation of Faith, and the Substance of the BIBLE, CONCERNING, JESUS CHRIST the true MESSIAH. According to Prophesies fore-told in the Old Testament, AND Confirmed in the New, from His Birth to His most Glorious Assention.</head>
+            <p>Jesus Christ was figured in the Law, foretold in the Prophets, fulfilled in the Gospel. Some Scriptures point to his Divinity, some to his Humanity, some to his Kingdome, some to his Priesthood, some to his Prophecies; some to his Conception some to his Birth, some to his Life, some to his Mi<g ref="char:EOLunhyphen"/>racles; some to his Resurrection, some to his Ascention, and some to his Glorification.</p>
+            <p>Search the Scripture, <hi>John</hi> 5. 39. for they are holy, 2 <hi>Tim.</hi> 3. 15. and comfortable, <hi>Rom.</hi> 15. 4.</p>
+            <list>
+               <item>BOrn of a Virgin, <hi>Isa.</hi> 7. 14.</item>
+               <item>The place of his Birth, <hi>Bethlehem, Micah</hi> 5. 1.</item>
+               <item>That at his Birthall the Infants round about <hi>Bethlehem</hi> should be slain for his sake, <hi>Jer</hi> 31. 15.</item>
+               <item>That the Kings of the earth should come and adore him, and offer gold &amp; other gifts to (him, <hi>Psal.</hi>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 10.</item>
+               <item>That he should be presented in the Temple at <hi>Jerusalem</hi> for the greater Glory of the (second Temple, <hi>Mal.</hi> 3. 1.</item>
+               <item>That he should fly into <hi>Egypt</hi> and be recalled thence, <hi>Hos.</hi> 11. 2.</item>
+               <item>That a Star should appear at his Birth to notifie his coming into the world, <hi>Numb</hi> 24.</item>
+               <item>That <hi>John</hi> Baptist who came in the Spirit and power of <hi>Elias,</hi> and therefore was called <hi>Elias,</hi> should be the Messenger to go before him, and to prepare the way, and to cry in the defarr, <hi>Luke</hi> 1. 17. <hi>Mat.</hi> 10. 14. compared with <hi>Mal.</hi> 3. 1. <hi>Mark</hi> 1. 2. <hi>Isa.</hi> 4. 3</item>
+               <item>After this he should begin his own preaching with all Humility, quietnesse, and cle<g ref="char:EOLhyphen"/>mency of Spirit, <hi>Isa.</hi> 44. 2. 3.</item>
+               <item>That he should be a poor abject and of no reputation in the world, <hi>Isa.</hi> 53. <hi>Dan.</hi> 9. <hi>Zach.</hi> 9 <hi>Jer.</hi> 14.</item>
+               <item>That he should doe strange M<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racles, and heal all Diseases, <hi>Isa.</hi>
+                  <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</item>
+               <item>That he should die and be slain for the sins of his people, <hi>Dan.</hi> 9. <hi>Isa.</hi> 53.</item>
+               <item>That he should be betrayed by one that put his hand in the Dish with him and was his own Disciple, <hi>Psal.</hi> 41. 9. <hi>Psal.</hi> 55. 13, 14.</item>
+               <item>That he should be sold for 30 pieces of silver, <hi>Zach.</hi> 11. 12.</item>
+               <item>That with those thirty pieces there should be bought afterward a field of Pot-sheards, <hi>Jer.</hi> 30.</item>
+               <item>That he should ride into <hi>Jerusalem</hi> upon an Ass before his Passion, <hi>Zach.</hi> 9. 9.</item>
+               <item>That the Jews should beat and buffet his face, and defile the same with spitting upon it, <hi>Isa.</hi> 50. 6.</item>
+               <item>That they should whip his body before they put him to death, <hi>Isa.</hi> 53. 2. <hi>Psal.</hi> 37. 18.</item>
+               <item>That they should put him to death among Thieves and Malefactours, <hi>Isa.</hi> 53. 12.</item>
+               <item>That they should give him Vinegar to drink, divide his apparrell, and cast Lots for his upper garment, <hi>Psal.</hi> 68. 22. <hi>Psal.</hi> 22. 11.</item>
+               <item>That the manner of his death should be Crucifixian; that is, nailing his hands and feet upon the Crosse, <hi>Psa.</hi> 22. 16. <hi>Zach.</hi> 12.</item>
+               <item>That his side should be pierced, and that they should look upon him when they had so pierced him, <hi>Zach.</hi> 12.</item>
+               <item>That he should rise again from death the third day, <hi>Psal.</hi> 16. 10 <hi>Hos.</hi> 6. 3.</item>
+               <item>That he should ascend into Heaven, and sit at the right hand of the Father, (in glory and royalty and like a conquering potentate over-ruling all,) <hi>Psal.</hi> 101. 1, 2.</item>
+            </list>
+            <p>All these things and whatsoever else belonging to the <hi>Messias,</hi> are found perfectly fulfilled in <hi>Jesus Christ;</hi> and in no other according to all that he did and suffered, according to the Scriptures of the <hi>New Testament.</hi>
+            </p>
+            <list>
+               <item>The Nativity of Jesus Christ, <hi>Mat.</hi> 1.</item>
+               <item>He was revealed by Angels and Shepheards, <hi>Luk.</hi> 2.</item>
+               <item>He was visited by wise men, guided to him by a Star, <hi>Matth.</hi> 2.</item>
+               <item>Christ was prepared to his Ministry by <hi>Johns Baptisme</hi> at 30 years of Age, <hi>Matth.</hi> 3.</item>
+               <item>He Fasted Forty dayes and Forty nights, <hi>Matth.</hi> 4.</item>
+               <item>He chose Twelve Apostles, <hi>Matth.</hi> 10.</item>
+               <item>He purged the Temple twice, <hi>John,</hi> 2. <hi>Mar.</hi> 11.</item>
+               <item>He Expounded at <hi>Nazareth, Luk.</hi> 4.</item>
+               <item>He Preached at <hi>Capernaum,</hi> Taught true blessedness in the Mount, <hi>Mat.</hi> 6.</item>
+               <item>He taught by Parables of two sorts.
+<list>
+                     <item>1. From things without Life.</item>
+                     <item>2. From things that have Life.</item>
+                  </list>
+               </item>
+            </list>
+            <p>1. Parables from things without Life.</p>
+            <list>
+               <item>BRead, <hi>Joh.</hi> 6. Feast, <hi>Matth.</hi> 22. Marriage Feast, <hi>Luk.</hi> 14. Sitting in the Highest seat, Leaven. <hi>Luk.</hi> 13. Light, <hi>Matth.</hi> 5. Net, <hi>Matth.</hi> 13. New Cloth, new Wine, <hi>Matth.</hi> 9. Salt, <hi>Matth.</hi> 5. Seed, <hi>Matth.</hi> 13. Four Grounds Sown, Seed Growing and increasing, <hi>Matth.</hi>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Trees, <hi>Matth.</hi> 3. the Axe put to the Root, Grapes, <hi>Matth.</hi> 24. Figtree, <hi>Luk.</hi> 13. Treasure hid, <hi>Matth.</hi> 13. Pearls, Talent, <hi>Matth.</hi> 25. Vineyard, <hi>Mat.</hi> 20. Workmen, penny, <hi>Matth.</hi> 20. The Vineyard hired forth, <hi>John,</hi> 13. The true Vine, <hi>John,</hi> 15.</item>
+            </list>
+            <p>2. Parables from things with Life.</p>
+            <list>
+               <item>A Bridegroom, <hi>Matth.</hi> 9. Builders, <hi>Matth.</hi> 7. Children, <hi>Matth.</hi> 11. Friend and Loa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <hi>Luke,</hi> 11. Neighbour, <hi>Samaritan, Publican,</hi> and <hi>Pharisee, Luk.</hi> 18. Servants, <hi>Matth.</hi> 6. Mercifull servants, <hi>Matth.</hi> 18. Unfaithfull servants, <hi>Matth.</hi> 24. Unjust stew<g ref="char:EOLhyphen"/>ard, <hi>Luk.</hi> 16. Shepheard, <hi>Matth.</hi> 6. Sheep and Goats, <hi>Matth.</hi> 25. Thief, <hi>John,</hi> 10. Unclean spirits, <hi>Matth.</hi> 12. Women, <hi>Matth.</hi> 25. Virgins, <hi>Luk.</hi> 18. Importunate Wi<g ref="char:EOLhyphen"/>dow, <hi>Luk.</hi> 15. Lost Grote, Women grinding, <hi>Mat.</hi> 24. Birds, <hi>Matth.</hi> 6. Fowls, Doves, <hi>Mat.</hi> 10, Sparows, <hi>Mat.</hi> 23. Hen, Eagles, <hi>Mat.</hi> 24.</item>
+               <item>That God might be glorified, That Christ might be Renowned to be the true <hi>Messiah,</hi> and that our Faith might be confirmed and we saved by him alone, These MIRA<g ref="char:EOLhyphen"/>CLES which CHRIST wrote are Written.</item>
+               <item>He turned Water into Wine, <hi>John.</hi> 2. Fed five thousand with five Loaves, <hi>Mat</hi> 14. Fed five thousand with seven Loaves, <hi>Matth.</hi> 15. Gave sight to the blind, <hi>Mar.</hi> 8. Gave hearing to the Deaf, and speech to the Dumb, <hi>Mar.</hi> 7. Restored the withered hand, <hi>Mark.</hi> 3. Healed the man that was Lame 38 years, <hi>John,</hi> 5. Healed the Leaprosie, <hi>Matth.</hi> 8. Healed the Fever, <hi>Mar.</hi> 1. Healed the Palsie, <hi>Matth.</hi> 9. Healed the bloody Issue, <hi>Matth.</hi> 9. Healed the Dropsie, <hi>Luk.</hi> 14. Calmed the Seas, <hi>Matth.</hi> 8. Walked on the waters, <hi>Matth.</hi> 14. Raised from the Dead, <hi>Mar.</hi> 9. Delivered from the posses<g ref="char:EOLhyphen"/>sion of the Divell, <hi>Luk.</hi> 4. <hi>Matth.</hi> 8. <hi>Mar.</hi> 1.</item>
+            </list>
+            <p>Notwithstanding all these wonderfull Miracles many did quarell with <hi>CHRIST.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>John</hi>'s Disciples, <hi>Matth.</hi> 9. His Kinsfolks, <hi>Nichodemus, John.</hi> 3. The Woman of <hi>Sa<g ref="char:EOLhyphen"/>maria, John</hi> 4. The Jewell, <hi>John</hi> 5. The Capernaits, <hi>John</hi> 6. The Herodians, <hi>Matth.</hi> 22. And the Saduces, the Doctors of the Law, the Rulers, <hi>Luke</hi> 13. The Scribes and Pharisees, <hi>Matth.</hi> 9.</item>
+               <item>After that JESUS had instituted his last Supper, he was betrayed by <hi>Judas, Mat.</hi> 26. Accused by false witnesses, Denied of <hi>Peter,</hi> Condemned by <hi>Pilate,</hi> Mocked by the Souldiers, Crucified at <hi>Golgotha</hi> betwixt two Thieves.</item>
+               <item>At his PASSION, The Vail of the Temple clave, the Earth trembled, the Rocks rent, the Sepulchres opened, and many Saints Arose.</item>
+               <item>
+                  <hi>Joseph</hi> of <hi>Arimathea</hi> buried him in a New Sepulchre, But he AROSE the Third day according to the Scriptures; he appeared to the women, to the Disciples and his Apostles, <hi>Matth.</hi> 28.</item>
+               <item>After his RESURRECTION, he was Conversant with the Apostles forty days, <hi>Acts</hi> 1.</item>
+               <item>At the time of his <hi>Ascension,</hi> having charged his Disciples to go to preach to all Nations, Baptizing them in the Name of the Father, Son and Holy Ghost, two Angels appeared to them, and a cloud Received him.</item>
+            </list>
+            <p>
+               <hi>CHRIST</hi> after his Death, appeared <hi>X Times.</hi>
+            </p>
+            <list>
+               <item>1. To <hi>Mary, Mark</hi> 16. 9. <hi>John</hi> 20. 14.</item>
+               <item>2. To the other <hi>Mary,</hi> and to <hi>Salome</hi> called also <hi>Joanna, Luke</hi> 10. <hi>Matth.</hi> 28. 9, 10.</item>
+               <item>3. To <hi>Peter,</hi> 1 <hi>Cor.</hi> 15. 5.</item>
+               <item>4. To <hi>Cleophas</hi> and the other Disciple going to <hi>Emaus, Luke</hi> 24. 13, &amp;c.</item>
+               <item>5. To the Eleven, <hi>Luke</hi> 24.</item>
+               <item>6. The eigthh day after unto the XI. <hi>Didymus</hi> being present</item>
+               <item>7. He was seen of more then 500 Brethren at once, 1 <hi>Cor.</hi> 15. 6.</item>
+               <item>8. He was seen of <hi>James</hi> alone, 1 <hi>Cor.</hi> 15. 7.</item>
+               <item>9. He was seen of divers of the Apostles at the Sea of <hi>Tiberius, John</hi> 21. 1<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>10. He appeared unto his Disciples when he led them out as far as <hi>Bethania,</hi> where having blessed them, he was Received up into Heaven. <hi>Acts</hi> 1.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Crosse.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
